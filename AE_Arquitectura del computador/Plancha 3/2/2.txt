@@ -1,0 +1,4 @@
+Las dos maneras para obtener el codigo de salida son: primero 
+compilando el codigo fuente, ejecutando el ejecutable y luego de eso
+ejecutar el comando echo $?. La segunda manera es compilando el programa
+y luego ver los registros o la salida del programa con el gdb del ejecutable.
