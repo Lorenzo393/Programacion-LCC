@@ -1,0 +1,3 @@
+Es necesario usar gdb ya que la salida del programa en ensamblador
+es de 1 byte y como todos los ejercicios usan registros de 4 bytes
+no es posible representarlos correctamente
